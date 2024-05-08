@@ -1,0 +1,90 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/16718d4e/
+#box_recruit	box.css	/^#box_recruit {$/;"	i
+#menu	box.css	/^#menu {$/;"	i
+&nbsp;	tcc.html	/^                  <td valign="top"><h1 align="justify" class="f14px">&nbsp;<\/h1>$/;"	h
+.bg_box	box.css	/^.bg_box{$/;"	c
+.caption_box	box.css	/^.caption_box {$/;"	c
+.central_box	box.css	/^.central_box {$/;"	c
+.citation_box	box.css	/^.citation_box {$/;"	c
+.citation_box li	box.css	/^.citation_box li {$/;"	s
+.f10px	textcolour.css	/^.f10px {$/;"	c
+.f11px	textcolour.css	/^.f11px {$/;"	c
+.f12px	textcolour.css	/^.f12px {$/;"	c
+.f12pxGray	textcolour.css	/^.f12pxGray {$/;"	c
+.f13px	textcolour.css	/^.f13px {$/;"	c
+.f14pixwide	textcolour.css	/^.f14pixwide {$/;"	c
+.f14px	textcolour.css	/^ .f14px {$/;"	c
+.f15px	textcolour.css	/^.f15px {$/;"	c
+.f16pxGray	textcolour.css	/^.f16pxGray {$/;"	c
+.image_box	box.css	/^.image_box {$/;"	c
+.news_box	box.css	/^.news_box {$/;"	c
+.old_news_box	box.css	/^.old_news_box {$/;"	c
+.peopleText	textcolour.css	/^.peopleText {$/;"	c
+.photo_box	box.css	/^.photo_box {$/;"	c
+.tcc_box	box.css	/^.tcc_box {$/;"	c
+.title_box	box.css	/^.title_box {$/;"	c
+.toc_box	box.css	/^.toc_box {$/;"	c
+.top_container	box.css	/^.top_container {$/;"	c
+FIND	mm_menu.js	/^function FIND(item) {$/;"	f
+Group Image	index.html	/^              <td class="f12px" , width="500" height="293" id="Group Image">$/;"	I
+Layer1	indexTrt.html	/^<div id="Layer1" style="position:absolute; left:683px; top:201px; width:376px; height:58px; z-in/;"	I
+MM_clearTimeout	mm_menu.js	/^function MM_clearTimeout() {$/;"	f
+MM_showMenu	mm_menu.js	/^function MM_showMenu(menu, x, y, child, imgname) {$/;"	f
+MM_startTimeout	mm_menu.js	/^function MM_startTimeout() {$/;"	f
+Menu	mm_menu.js	/^function Menu(label, mw, mh, fnt, fs, fclr, fhclr, bg, bgh, halgn, valgn, pad, space, to, sx, sy/;"	c
+NS4resize	mm_menu.js	/^function NS4resize() {$/;"	f
+TCC	index.html	/^            <tr id="TCC">$/;"	I
+TOPOLOGICAL CLUSTER CLASSIFICATION	tcc.html	/^                      <h1 class="f14px"> <a id="user-content-topological-cluster-classification"/;"	h
+a:hover	textcolour.css	/^a:hover {$/;"	s
+addMenuItem	mm_menu.js	/^function addMenuItem(label, action) {$/;"	c
+body	textcolour.css	/^body {$/;"	s
+box_recruit	menu.html	/^<div id="box_recruit">$/;"	I
+contact	menu.html	/^        <a id="contact" href="Contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swa/;"	I
+getExplorerVersion	mm_menu.js	/^function getExplorerVersion() {$/;"	f
+hideActiveMenus	mm_menu.js	/^function hideActiveMenus() {$/;"	f
+hideChildMenu	mm_menu.js	/^function hideChildMenu(hcmLayer) {$/;"	f
+hideMenu	mm_menu.js	/^function hideMenu(mouseup, e) {$/;"	f
+jade_paper	Work_5.html	/^            <li id="jade_paper">$/;"	I
+links	menu.html	/^        <a id="links" href="Link.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImag/;"	I
+menu	Contact.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Link.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	People.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Positions.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Publications.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_1.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_2.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_3.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_4.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_5.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_6.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_7.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_8.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_amoeba.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_fish.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Work_protein.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	Workshop.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+menu	index.html	/^    <div w3-include-html="menu.html" id="menu"><\/div>$/;"	I
+mmDoHide	mm_menu.js	/^function mmDoHide() {$/;"	f
+mouseoutMenu	mm_menu.js	/^function mouseoutMenu() {$/;"	f
+mouseupMenu	mm_menu.js	/^function mouseupMenu(e) {$/;"	f
+moveXbySlicePos	mm_menu.js	/^function moveXbySlicePos (x, img) { $/;"	f
+moveYbySlicePos	mm_menu.js	/^function moveYbySlicePos (y, img) {$/;"	f
+onMenuItemAction	mm_menu.js	/^function onMenuItemAction(e, l) {$/;"	f
+onMenuItemDown	mm_menu.js	/^function onMenuItemDown(e, l) {$/;"	f
+onMenuItemOver	mm_menu.js	/^function onMenuItemOver(e, l) {$/;"	f
+people	menu.html	/^        <a id="people" href="People.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapI/;"	I
+positions	menu.html	/^        <a id="positions" href="Positions.html" onMouseOut="MM_swapImgRestore(); MM_showHideLaye/;"	I
+publications	menu.html	/^        <a id="publications" href="Publications.html" onMouseOut="MM_swapImgRestore()" onMouseOv/;"	I
+tcc_paper	Work_5.html	/^            <li id="tcc_paper">$/;"	I
+top	menu.html	/^        <a id="top" href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage/;"	I
+ul	textcolour.css	/^ul {$/;"	s
+user-content-topological-cluster-classification	tcc.html	/^                      <h1 class="f14px"> <a id="user-content-topological-cluster-classification"/;"	I
+work	menu.html	/^        <a id="work" href="#" onMouseOut="MM_swapImgRestore();MM_startTimeout();" onMouseOver="M/;"	I
+workshop	menu.html	/^        <a id="workshop" href="Workshop.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_s/;"	I
+writeMenus	mm_menu.js	/^function writeMenus(container) {$/;"	f

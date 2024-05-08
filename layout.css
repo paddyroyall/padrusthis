@@ -1,0 +1,89 @@
+body {
+  -webkit-text-size-adjust: 100%;
+  color: #001144;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a:link {
+  text-decoration: none;
+  color: tomato;
+}
+
+a:visited {
+  text-decoration: none;
+  color: tomato;
+}
+
+a:hover {
+	color: cornflowerblue;
+	text-decoration: none;
+}
+
+ul {
+  list-style-image: url('img/point.gif');
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  background: #fff;
+  padding: 2% 0% 2% 2%;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  font-size: 14px;
+  list-style-type: none;
+  list-style-image: none;
+  text-align: right;
+  padding: 0;
+}
+
+nav li {
+  margin-bottom: 5%;
+}
+
+nav h2 {
+  text-align: right;
+}
+
+article {
+  font-size: 12px;
+  float: left;
+  padding: 2% 5% 0% 5%;
+  width: 70%;
+  background: #fff;
+}
+
+/* Clear floats after the columns */
+section:after {
+  font-size: 12px;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.flex-container {
+  display: flex;
+  background-color: #fff;
+}
+
+.flex-container > div {
+  background-color: #fff;
+  margin: 2% 1% 2% 1%;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+
+  nav,
+  article {
+    width: 100%;
+    height: auto;
+  }
+}
