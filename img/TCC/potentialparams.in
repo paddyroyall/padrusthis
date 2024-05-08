@@ -1,0 +1,55 @@
+0.8 sigma_AB 		// LJ/SFLJ/IPL AB interaction equilibrium length, measured in terms of sigma_A (i.e. sigma_A is 1.0)	DOUBLE	
+0.88 sigma_BB 		// LJ/SFLJ/IPL BB interaction equilibrium length, measured in terms of sigma_A (i.e. sigma_A is 1.0)	DOUBLE
+1.5 epsilon_AB 		// LJ/SFLJ/IPL AB interaction well depth, measured in terms of epsilon_A (i.e. epsilon_A is 1.0)		DOUBLE	
+0.5 epsilon_BB 		// LJ/SFLJ/IPL BB interaction well depth, measured in terms of epsilon_A (i.e. epsilon_A is 1.0)		DOUBLE
+2.5 rcut 			// LJ/SFLJ/IPL A-A interaction cut off											DOUBLE
+2.0 rcut_AB		// LJ/SFLJ/IPL A-B interaction cut off											DOUBLE
+2.2 rcut_BB 		// LJ/SFLJ/IPL B-B interaction cut off											DOUBLE
+d0_sigma_input.dat 	// MORSE+YUKAWA polydispersity input filename									STRING
+25.00 RHO0 		// MORSE rho0 range parameter												DOUBLE
+1.0 mepsilon		// MORSE epsilon well depth													DOUBLE
+1.0 MCUT 			// MORSE cut and shift cut off length											DOUBLE
+30.0 KAPPA 			// YUKAWA kappa sigma													DOUBLE
+1.0 yukepsilon 		// YUKAWA epsilon well depth													DOUBLE
+2.0 YUKCUT 		// YUKAWA cut and shift cut off length											DOUBLE
+15.48 ipl_exp 		// IPL exponent for inverse power-law (IPL) potential									DOUBLE
+1.945	ipl_pre 		// IPL prefactor for inverse power-law (IPL) potential									DOUBLE
+1.0269 cubic_a_AA 	// position shifted LJ is cut and cubic spline beings for A-A particle interaction				DOUBLE
+0.9473 cubic_a_AB 	// position shifted LJ is cut and cubic spline beings for A-B particle interaction				DOUBLE
+0.8555 cubic_a_BB 	// position shifted LJ is cut and cubic spline beings for B-B particle interaction					DOUBLE
+0.0001 TWOPARTRHO	// density for printing out potentials in a separate file									DOUBLE
+1000 NOPOTENTIALBINS	// no bins to use when writing potential to file									INTEGER
+6.0 WRITEPOTMAX 	// r max for writing potential/force to file !!!must be less than 0.5*sqrt(2000)!!!				DOUBLE
+0.5 WRITEPOTMIN 	// r min for writing potential/force to file											DOUBLE
+
+ALWAYS have a space " " character after the variable on each line above
+
+/*
+Kob-Andersen
+0.8 sigma_AB 		// LJ/SFLJ/IPL AB interaction equilibrium length, measured in terms of sigma_A (i.e. sigma_A is 1.0)	DOUBLE	
+0.88 sigma_BB 		// LJ/SFLJ/IPL BB interaction equilibrium length, measured in terms of sigma_A (i.e. sigma_A is 1.0)	DOUBLE
+1.5 epsilon_AB 		// LJ/SFLJ/IPL AB interaction well depth, measured in terms of epsilon_A (i.e. epsilon_A is 1.0)		DOUBLE	
+0.5 epsilon_BB 		// LJ/SFLJ/IPL BB interaction well depth, measured in terms of epsilon_A (i.e. epsilon_A is 1.0)		DOUBLE
+2.5 rcut 			// LJ/SFLJ/IPL A-A interaction cut off											DOUBLE
+2.0 rcut_AB		// LJ/SFLJ/IPL A-B interaction cut off											DOUBLE
+2.2 rcut_BB 		// LJ/SFLJ/IPL B-B interaction cut off											DOUBLE
+
+1.0269 cubic_a_AA 	// position shifted LJ is cut and cubic spline beings for A-A particle interaction				DOUBLE
+0.8215 cubic_a_AB 	// position shifted LJ is cut and cubic spline beings for A-B particle interaction				DOUBLE
+0.9038 cubic_a_BB 	// position shifted LJ is cut and cubic spline beings for B-B particle interaction					DOUBLE
+*/
+
+/*
+Wahnstrom
+0.91666666666666666 sigma_AB 		// LJ/SFLJ/IPL AB interaction equilibrium length, measured in terms of sigma_A (i.e. sigma_A is 1.0)	DOUBLE	
+0.83333333333333333 sigma_BB 		// LJ/SFLJ/IPL BB interaction equilibrium length, measured in terms of sigma_A (i.e. sigma_A is 1.0)	DOUBLE
+1.0 epsilon_AB 		// LJ/SFLJ/IPL AB interaction well depth, measured in terms of epsilon_A (i.e. epsilon_A is 1.0)		DOUBLE	
+1.0 epsilon_BB 		// LJ/SFLJ/IPL BB interaction well depth, measured in terms of epsilon_A (i.e. epsilon_A is 1.0)		DOUBLE
+2.5 rcut 			// LJ/SFLJ/IPL A-A interaction cut off											DOUBLE
+2.5 rcut_AB		// LJ/SFLJ/IPL A-B interaction cut off											DOUBLE
+2.5 rcut_BB 		// LJ/SFLJ/IPL B-B interaction cut off											DOUBLE
+
+1.0269 cubic_a_AA 	// position shifted LJ is cut and cubic spline beings for A-A particle interaction				DOUBLE
+0.9473 cubic_a_AB 	// position shifted LJ is cut and cubic spline beings for A-B particle interaction				DOUBLE
+0.8555 cubic_a_BB 	// position shifted LJ is cut and cubic spline beings for B-B particle interaction					DOUBLE
+*/
